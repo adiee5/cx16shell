@@ -106,6 +106,10 @@ main {
         txt.print(iso:"\r  Commander-X16 SHELL ")
         txt.color(COLOR_NORMAL)
         txt.print(iso:"- https://github.com/irmen/cx16shell\r")
+		txt.color(COLOR_HIGHLIGHT_PROMPT)
+        txt.print(iso:"\r  With embedded neofetch ")
+        txt.color(COLOR_NORMAL)
+        txt.print(iso:"- https://github.com/adiee5/cx16shell\r")
 		
 		txt.color(4)
 		txt.print(iso:"\r  o                   o  ")
