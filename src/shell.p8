@@ -109,7 +109,7 @@ main {
 		txt.color(COLOR_HIGHLIGHT_PROMPT)
         txt.print(iso:"\r  With embedded neofetch ")
         txt.color(COLOR_NORMAL)
-        txt.print(iso:"- https://github.com/adiee5/cx16shell\r")
+        txt.print(iso:"- https://github.com/adiee5/cx16shell-with-neofetch\r")
 		
 		txt.color(4)
 		txt.print(iso:"\r  o                   o  ")
