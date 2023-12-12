@@ -4,3 +4,4 @@
 *.asm
 *.vice-mon-list
 compile.bat
+SHELL-CMDS
