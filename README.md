@@ -6,6 +6,8 @@ This fork's no longer going to have updates. It was decided for few reasons:
 
 That being said, please head to [upstream cx16shell repo](https://github.com/irmen/cx16shell) if you want to have the newest features and bugfixes, **this repo is an Archive.**
 
+Starting with SHELL.PRG v1.3, the same behavoiur can be replicated by adding `neofetch` command to your `config.sh` file.
+
 # Shell for Commander X16 with neofetch
 
 A soft-fork of [cx16shell](https://github.com/irmen/cx16shell) that has the neofetch embedded into the Shell binary, and runs that embedded neofetch when starting.
